@@ -57,6 +57,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.11.5",
+    "@splidejs/splide": "^2.4.14",
     "core-js": "^3.6.5"
   }
 }

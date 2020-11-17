@@ -1,6 +1,8 @@
-$body-color: slateblue;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;1,700&display=swap');
+$body-color: red;
 
 body {
   color: $body-color;
-  font-family: sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
 }
